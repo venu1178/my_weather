@@ -1,0 +1,6 @@
+{
+  "name": "my_weather-sample",
+  "description": "Webhook my weather sample",
+  "repository": "https://github.com/venu1178/my_weather.git",
+  "keywords": ["api.ai", "dialogflow", "natural language"]
+}
